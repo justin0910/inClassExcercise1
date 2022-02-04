@@ -29,5 +29,7 @@ public class CardDealer
         Card sixDiamonds = new Card("Dmds", 6);
         sixDiamonds.setSuit("Diamonds");
         
+        //hello
+        
     }
 }
