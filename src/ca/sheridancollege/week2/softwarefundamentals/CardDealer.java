@@ -15,10 +15,13 @@ public class CardDealer
     {
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
-        
+               
         
         //Justin Joseph
         //Date :- 04-02-2022
         //Student id:- 991657951
+        
+        Card aceSpades = new Care("Spds", 1);
+        aceSpades.setSuit("Spades");
     }
 }
