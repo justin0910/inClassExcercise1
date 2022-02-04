@@ -21,7 +21,13 @@ public class CardDealer
         //Date :- 04-02-2022
         //Student id:- 991657951
         
+        //New Object1
         Card aceSpades = new Card("Spds", 1);
         aceSpades.setSuit("Spades");
+        
+        //New Object2
+        Card sixDiamonds = new Card("Dmds", 6);
+        sixDiamonds.setSuit("Diamonds");
+        
     }
 }
