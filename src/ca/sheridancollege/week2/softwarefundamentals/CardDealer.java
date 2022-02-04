@@ -21,7 +21,7 @@ public class CardDealer
         //Date :- 04-02-2022
         //Student id:- 991657951
         
-        Card aceSpades = new Care("Spds", 1);
+        Card aceSpades = new Card("Spds", 1);
         aceSpades.setSuit("Spades");
     }
 }
